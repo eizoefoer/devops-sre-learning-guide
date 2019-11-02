@@ -48,6 +48,7 @@ The **[DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap#devops
 - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ##### Docker
+- [Containerization Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
 - [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
 - [What is a Container?](https://www.youtube.com/watch?v=EnJ7qX9fkcU)
 - [How to write excellent Dockerfiles](https://rock-it.pl/how-to-write-excellent-dockerfiles/)
@@ -55,12 +56,14 @@ The **[DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap#devops
 ##### Kubernetes
 - [Kubernetes Deconstructed: 1 Hour 101 learning Video](https://vimeo.com/245778144/4d1d597c5e)
 - [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU&t=5s)
+- [Kubernetes vs. Docker: It's Not an Either/Or Question](https://www.youtube.com/watch?v=2vMEQ5zs1ko)
 - [Kubernetes The Hard Way by Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-- [AWS Workshop for Kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes)
+- AWS Kubernetes Tutorials
+  - [AWS Workshop for Kubernetes - 2018](https://github.com/aws-samples/aws-workshop-for-kubernetes)
+  - [Amazon EKS Workshop - 2019](https://eksworkshop.com/)
 
 ##### RESTful API's
-- [Best Practices for Designing a Pragmatic RESTful API
-](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
 ##### Infrastructure-as-Code
 - [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
