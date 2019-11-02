@@ -130,6 +130,9 @@ The **[DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap#devops
 - Package Managers
   - [Pip: Python Package Manager](https://packaging.python.org/tutorials/installing-packages/)
   - [Node Package Manager](https://www.npmjs.com/)
+  - [Composer: A Dependency Manager for PHP](https://getcomposer.org/)
   - [Homebrew: Package Manager for OSX](https://brew.sh/)
+  - [Chocolatey: The Package Manager for Windows](https://chocolatey.org/)
+  - [AppGet: Free and Open Package Manager for Windows](https://appget.net/)
 - Regex
   - [RegExr: Regex Testing](https://regexr.com/)
