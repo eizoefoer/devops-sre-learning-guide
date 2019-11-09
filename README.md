@@ -133,6 +133,8 @@ The **[DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap#devops
   - [Composer: A Dependency Manager for PHP](https://getcomposer.org/)
   - [Homebrew: Package Manager for OSX](https://brew.sh/)
   - [Chocolatey: The Package Manager for Windows](https://chocolatey.org/)
+  - [GoFish: Cross-platform systems package manager, bringing the ease of use of Homebrew to Linux and Windows](https://gofi.sh/index.html)
   - [AppGet: Free and Open Package Manager for Windows](https://appget.net/)
+  - [Scoop: A command-line installer for Windows](https://scoop.sh/)
 - Regex
   - [RegExr: Regex Testing](https://regexr.com/)
