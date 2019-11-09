@@ -66,11 +66,11 @@ The **[DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap#devops
 - [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
 ##### Infrastructure-as-Code
-- [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
 - [AWS CloudFormation Masterclass](https://www.youtube.com/watch?v=6R44BADNJA8)
 - [Deployment Scenarios with AWS CloudFormation](https://www.youtube.com/watch?v=X31kA1ANBVw)
 - [Advanced Infrastructure as Code Programming on AWS](https://www.youtube.com/watch?v=EJVNuR2GRBc)
 - [Deep Dive into AWS SAM](https://www.youtube.com/watch?v=CIdUU6rNdk4)
+- [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
 
 ## Helpful Learning Sites
 
@@ -98,6 +98,7 @@ The **[DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap#devops
 - [Massive Industry Blog List!!!](https://github.com/sumodirjo/engineering-blogs)
 
 ##### AWS
+- [My CloudFormation Guide](cloudformation.md)
 - [This Is My Architecture](https://aws.amazon.com/this-is-my-architecture/)
   - A collection of architecture walkthrough videos by companies who have used AWS to solve a variety of problems.
 - AWS Podcasts
