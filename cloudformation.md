@@ -8,8 +8,9 @@
 
 #### Patterns and Examples
 
-- **[aws-cf-templates](https://github.com/widdix/aws-cf-templates)**: A fantastic repository of reusable templates for CloudFormation by widdix.
-- **[aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates/)**: A collection of useful CloudFormation templates by AWS.
+- **[widdix/aws-cf-templates](https://github.com/widdix/aws-cf-templates)**: A fantastic repository of reusable templates for CloudFormation by widdix.
+- **[stelligent/cloudformation_templates](https://github.com/stelligent/cloudformation_templates)**: This repository contains a collaboration of general and specific Amazon Web Services CloudFormation Template Examples by Stelligent.
+- **[awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates/)**: A collection of useful CloudFormation templates by AWS.
 
 
 #### Generation
