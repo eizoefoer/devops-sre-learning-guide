@@ -98,7 +98,8 @@ The **[DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap#devops
 - [Massive Industry Blog List!!!](https://github.com/sumodirjo/engineering-blogs)
 
 ##### AWS
-- [My CloudFormation Guide](cloudformation.md)
+- [My CloudFormation Guide with tools and tips](cloudformation.md)
+- [My Terraform Guide with tools and tips](terraform.md)
 - [This Is My Architecture](https://aws.amazon.com/this-is-my-architecture/)
   - A collection of architecture walkthrough videos by companies who have used AWS to solve a variety of problems.
 - AWS Podcasts
